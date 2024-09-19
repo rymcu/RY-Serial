@@ -11,7 +11,7 @@ RY-Serial —— 一款 RYMCU 社区独家设计, 搭载沁恒微 CH343P 芯片,
 8. 2.5cm x 3.0cm 小身板大能量
 9. 彩色图案印制盖板，美观又简洁
 10. 支持对外供电 5V 或 3.3V
-11. 更多详细介绍 [RY-Serial](https://rymcu.com/product/7)
+11. 更多详细介绍 [RY-Serial](https://rymcu.com/product/8)
 
 ## 使用方法
 1. PCB 工程源文件请使用[立创专业版 EDA](https://pro.lceda.cn/editor) 导入
