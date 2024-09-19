@@ -1,5 +1,5 @@
 ## RY-Serial
-是 RYMCU 社区开发的开源的 USB 转串口模块，速度最高可达 6Mbps,采用CH343P方案。
+RY-Serial —— 一款 RYMCU 社区独家设计, 搭载沁恒微 CH343P 芯片, 传输速率高达 6Mbps 的开源 USB 转串口模块。
 ## 特点介绍
 1. 采用高速芯片 CH343P，串口波特率最高可达 6Mbps
 2. 采用 USB Type-C 接口，通用性好
